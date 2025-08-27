@@ -1,0 +1,32 @@
+.layout {
+  min-height: 100vh;
+  background: var(--bg);
+
+  &__header {
+    position: sticky;
+    top: 0;
+    background: #fff;
+    border-bottom: 1px solid var(--border);
+    padding: 12px 20px;
+    display: flex;
+    align-items: center;
+    box-shadow: var(--shadow);
+    z-index: 10;
+  }
+
+  &__icon {
+    font-size: 20px;
+    margin-right: 8px;
+  }
+
+  &__title {
+    font-weight: 700;
+    font-size: 18px;
+  }
+
+  &__main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 24px 16px;
+  }
+}

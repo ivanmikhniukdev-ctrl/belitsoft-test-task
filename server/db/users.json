@@ -1,0 +1,47 @@
+[
+  {
+    "id": "u1",
+    "name": "Alice Nguyen",
+    "email": "alice@example.com",
+    "roles": [
+      "admin",
+      "viewer",
+      "editor"
+    ]
+  },
+  {
+    "id": "u2",
+    "name": "Boris Petrov",
+    "email": "boris@example.com",
+    "roles": [
+      "admin",
+      "viewer"
+    ]
+  },
+  {
+    "id": "u3",
+    "name": "Clara Gomez",
+    "email": "clara@example.com",
+    "roles": [
+      "viewer",
+      "admin"
+    ]
+  },
+  {
+    "id": "u4",
+    "name": "Diego Nunes",
+    "email": "diego@example.com",
+    "roles": [
+      "admin"
+    ]
+  },
+  {
+    "id": "u5",
+    "name": "Elena Rossi",
+    "email": "elena@example.com",
+    "roles": [
+      "admin",
+      "viewer"
+    ]
+  }
+]

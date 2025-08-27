@@ -1,0 +1,14 @@
+[
+  {
+    "id": "admin",
+    "name": "Admin"
+  },
+  {
+    "id": "editor",
+    "name": "Editor"
+  },
+  {
+    "id": "viewer",
+    "name": "Viewer"
+  }
+]
